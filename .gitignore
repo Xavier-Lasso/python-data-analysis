@@ -130,6 +130,7 @@ dmypy.json
 
 # Datasets
 *.txt
+*.json
 
 # Scikit-learn model
 *.pkl
